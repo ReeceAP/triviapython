@@ -1,11 +1,13 @@
 # Trivia Python simply use's opentdb's API to pull in a random trivia question. This has been designed to be answered from the command line.
 
-Works with Python 3.7.1
+Made in 2018 after playing Tower Unite: https://store.steampowered.com/app/394690/Tower_Unite/
 
-No currently known issues.
+Tower Unite has a trivia game in it whereby it pulls down user submitted questions from opentdb which is the API used here.
 
-Code needs optimising, lots of repitition.
-
+Code needs optimising, lots of repitition!
 Currently handles 1 question before exiting.
-
 No scoring system.
+
+Hasn't been updated since I made it, so there's a lot of stuff I'd change looking back on it :)
+
+Hopefully someone finds it useful!
