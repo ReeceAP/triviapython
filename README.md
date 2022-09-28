@@ -2,7 +2,7 @@
 
 Made in 2018 after playing Tower Unite: https://store.steampowered.com/app/394690/Tower_Unite/
 
-Tower Unite has a trivia game in it whereby it pulls down user submitted questions from opentdb which is the API used here.
+Tower Unite contains a trivia mini-game where it pulls questions from opentdb, so thought I'd remake it in CLI form for fun!
 
 Code needs optimising, lots of repitition!
 Currently handles 1 question before exiting.
